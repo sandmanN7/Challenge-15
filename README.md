@@ -8,9 +8,11 @@ the linear model is also quite low, which means that the slope is not zero. Sole
 
 ## Deliverable 2: Summary Statistics on Suspension Coils
 Manufactiring lots total:
+
 ![This is an image](https://github.com/sandmanN7/Challenge-15/blob/main/images/s1.png)
 
 Manufacturing lots individual:
+
 ![This is an image](https://github.com/sandmanN7/Challenge-15/blob/main/images/s2.png)
 
 The variance of the lots in total and the variance in lots 1 and 2 both meet the manufacturing design specification, but lot 3 does not. Lots 1 and 2 coils have well-under 100 pounds per square inch and the over all coils are still under that number, but the coils from lot 3 are about 170 pounds per square inch, thus far exceeding that parameter.

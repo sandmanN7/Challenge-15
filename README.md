@@ -25,3 +25,8 @@ T-tests on individual lots:
 ![This is an image](https://github.com/sandmanN7/Challenge-15/blob/main/images/t1.png)
 ![This is an image](https://github.com/sandmanN7/Challenge-15/blob/main/images/t2.png)
 ![This is an image](https://github.com/sandmanN7/Challenge-15/blob/main/images/t3.png)
+
+In line with the summary statistics, the results of the t-tests follow correspondingly. For the t-test for the total population and lots one and two, we fail to reject 
+the null hypothesis in that the samples' PSI are not statistically different from the population mean of 1500 pounds per square inch. Lot 3, however, we reject that same null hypothesis, as the p-value is lower than 0.05. Thus, Lot 3's PSI is statistically different from the population mean.
+
+## Deliverable 4: Study Design

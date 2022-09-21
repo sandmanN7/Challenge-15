@@ -17,9 +17,11 @@ The variance of the lots in total and the variance in lots 1 and 2 both meet the
 
 ## Deliverable 3: T-Tests on Suspension Coils
 T-test on all suspension coils:
+
 ![This is an image](https://github.com/sandmanN7/Challenge-15/blob/main/images/t.png)
 
 T-tests on individual lots:
+
 ![This is an image](https://github.com/sandmanN7/Challenge-15/blob/main/images/t1.png)
 ![This is an image](https://github.com/sandmanN7/Challenge-15/blob/main/images/t2.png)
 ![This is an image](https://github.com/sandmanN7/Challenge-15/blob/main/images/t3.png)
